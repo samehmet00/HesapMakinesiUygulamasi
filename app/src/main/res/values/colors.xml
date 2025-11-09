@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yesil">#103C00</color>
+    <color name="mavi">#002542</color>
+    <color name="turuncu">#945202</color>
+    <color name="gri">#5D5C5C</color>
+    <color name="koyugri">#1D1D1D</color>
+    <color name="kırmızı">#64030D</color>
+</resources>
